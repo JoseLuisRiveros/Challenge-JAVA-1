@@ -52,7 +52,7 @@ public class Desafio {
                     break;
                 default:
                     System.out.println("opción no valida");
-            }
+            }//prueba realizada con exito
         }
     }
 }
